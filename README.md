@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hello there 👋😁
 
-<!--
-**Noraksing/Noraksing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learn more about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on making a text editor from scratch.
+- 🌱 I’m currently learning C/C++
+- 👯 I’m looking to collaborate on something fun! (maybe a Minecraft mod?)
+- 🤔 I’m looking for help with landing a placement intern role ;-;
+- 💬 Ask me about linguistics (it's my special interest)
+- 📫 How to reach me: Linkedin (in my bio)
+- 😄 Pronouns: h₁e/im/h₁éso/h₁esmōd/h₁esmōi/h₁esmi/h₁ei
+- ⚡ Fun fact: I'm from Cambodia 🇰🇭
