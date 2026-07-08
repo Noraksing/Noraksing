@@ -1,11 +1,14 @@
-# 👋 Hello :D
+# 👋 Hello
+
+My name is Noraksing (/nɔˈræksɪŋ/). I am a full-stack devloper with additional experience with mobile development and data analysis. Passionate about programming and eager to learn new things.
+
+🔭 Currently looking for: graduate roles & summer internships!
 
 ## 📛 About Me
 - 🎓 Bachelor's in software engineering
 - 🦊 Recent alumni of the University of Leicester
 - ✨ Special interests: linguistics and video games
 - 🌱 Currently working on: English-to-IPA translator (and more...)
-- 🔭 Looking for: graduate roles & summer internships!!
 
 ## 🛠️ Tech Stack
 ![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
@@ -17,7 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
-
+![Static Badge](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=arch-linux)
 
 ## 📬 Get in Touch
 
